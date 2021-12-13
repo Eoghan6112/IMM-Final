@@ -1,7 +1,7 @@
 
 Unity project Final 2021   Eoghan Murtagh.
 
-**LINK TO GAME** -> https://eoghan6112.github.io/Unity-Project-Alpha/
+**LINK TO GAME** -> https://eoghan6112.github.io/IMM-Final/
 
 
 Player movement done (PlayerController.cs) -E
